@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+}
+
+#CAPSBUTTON {
+    background-color: #b083f7;
+    color: white;
+    font-size: 20px;
+}
+
+#RedRandomWords {
+    background-color: #b083f7;
+    color: rgb(252, 0, 0);
+    font-size: 20px;
+}
+
+#SwapRandomWords {
+    background-color: #b083f7;
+    color: white;
+    font-size: 20px;
+}
